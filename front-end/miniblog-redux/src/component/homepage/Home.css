@@ -1,0 +1,27 @@
+.container-home div{
+    margin-bottom: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-top: 10px;
+    background-color: white;
+}
+.container-home{
+    margin: 10px;
+}
+.container-home p {
+    margin-bottom: 5px;
+    color: #a6a6a6;
+}
+.body-pagigation{
+    background-color: #f2f2f2!important;
+    text-align: center;
+    width: 100%;
+    
+  }
+  .body-pagigation ul{
+    text-align: center;
+    margin-left: 45vh;
+  }
+  .book-link h3{
+    color: black;
+  }

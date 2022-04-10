@@ -1,0 +1,139 @@
+{
+    "books":[
+        {
+            "id":1,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Corregidora is the blue and harrowing testimony of the survivors and descendants of the brutal enterprise known as the Mid-Atlantic Slave trade, chronicling the horrors endured by Africans who were kidnapped and dragged to Brazil, says Robert Jones Jr., whose debut novel, The Prophets, comes out in January 2021. Gayl's book is an education on the history of slavery in Brazil and the affect it had on generations to come. As a descendant of Africans enslaved in the United States, I felt kinship with Brazilians because of this shared history and longed to visit the country to visit what to me seemed like my long-lost cousins, Robert says. My husband and I journeyed to Rio De Janeiro in 2014 and were immediately struck by the beauty of the city, yes, but also by how recognizable the people were. We did not speak the same tongue-language (we each spoke the words of our particular colonizers), but we did speak the same rhythms, the same dances, the same nourishment, the same habits, the same spirits, the same ancestors.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 1"
+        },
+        {
+            "id":2,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1589194858175-92ffb8ff1d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmV1dGlmdWx8ZW58MHx8MHx8&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 2"
+        },
+        {
+            "id":3,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 3"
+        },
+        {
+            "id":4,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1589194858175-92ffb8ff1d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmV1dGlmdWx8ZW58MHx8MHx8&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 4"
+        },
+        {
+            "id":5,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 5"
+        },
+        {
+            "id":6,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 6"
+        },
+        {
+            "id":7,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 7"
+        },
+        {
+            "id":8,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 8"
+        },
+        {
+            "id":9,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 9"
+        },
+        {
+            "id":10,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 10"
+        },
+        {
+            "id":11,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1589194858175-92ffb8ff1d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmV1dGlmdWx8ZW58MHx8MHx8&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 11"
+        },
+        {
+            "id":12,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 12"
+        },
+        {
+            "id":13,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 13"
+        },
+        {
+            "id":14,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1589194858175-92ffb8ff1d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmV1dGlmdWx8ZW58MHx8MHx8&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 14"
+        },
+        {
+            "id":15,
+            "category":"art",
+            "createDate":"25.February 2022",
+            "description": "Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.Every day, more and more people want to learn some HTML and CSS.",
+            "image": "https://images.unsplash.com/photo-1615859131861-052f0641a60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2lkZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "modifiedDate": null,
+            "title": "Travel book DEF 15"
+        }
+    ]
+}

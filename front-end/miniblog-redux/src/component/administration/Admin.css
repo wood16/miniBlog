@@ -1,0 +1,120 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 15px;
+  }
+
+  td
+  {
+   max-width: 100px;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    overflow:hidden;
+  }
+  .button{
+    display: inline-block;
+    border: 1px solid #4da6ff;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #4da6ff;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  
+  .button:hover {
+    color: white;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+  .button-delete{
+    display: inline-block;
+    border: 1px solid #ff3333;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #ff3333;
+    text-align: center;
+    transition: all 0.2s;
+    margin-left: 10px;
+  }
+  .button-delete:hover {
+    color: white;
+    background-color: #ff6666;
+    border: 1px solid #ff6666;
+  }
+  .button-add{
+    display: inline-block;
+    border: 1px solid #4da6ff;
+    border-radius: 0.12em;
+    position: absolute;
+    right: 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #4da6ff;
+    text-align: center;
+    transition: all 0.2s;
+    display: inline;
+  }
+  .button-add:hover {
+    color: white;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+  h3{
+    display:inline;
+  }
+  .body-admin{
+    position: relative;
+  }
+  .search-admin input{
+    width: 675px;
+  }
+  .col-sm-2{
+    padding-top: 20px;
+    padding-left: 33px;
+  }
+  
+  .btn-arrow-up{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+  }
+  .btn-arrow-down{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+  }
+  .btn-arrow-up:hover {
+    color: white;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+  .btn-arrow-down:hover {
+    color: white;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+
+  .fas{
+    color: #4da6ff;
+  }

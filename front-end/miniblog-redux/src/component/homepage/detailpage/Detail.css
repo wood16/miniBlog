@@ -1,0 +1,29 @@
+.button-back {
+    display: inline-block;
+    padding: 0.6em 1.7em;
+    border: 1px solid #4da6ff;
+    margin-top: 20px;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: black;
+    background-color: #4da6ff;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  
+  .button-back:hover {
+    color: #000000;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+
+  .detail-content img{
+      border-radius: 5px;
+      margin-bottom: 10px;
+  }
+  .detail-title{
+    color: #a6a6a6;
+  }

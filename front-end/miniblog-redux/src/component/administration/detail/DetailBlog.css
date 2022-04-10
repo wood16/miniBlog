@@ -1,0 +1,62 @@
+.btn-back{
+    display: inline-block;
+    border: 1px solid #4da6ff;
+    border-radius: 0.12em;
+    padding: 10px;
+    margin-left: 110px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #4da6ff;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  
+  .btn-back:hover {
+    color: white;
+    background-color: #b3d9ff;
+    border: 1px solid #b3d9ff;
+  }
+
+  .btn-delete{
+    display: inline-block;
+    border: 1px solid #ff3333;
+    border-radius: 0.12em;
+    padding: 10px;
+    margin-left: 110px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #ff3333;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  .btn-delete:hover {
+    color: white;
+    background-color: #ff6666;
+    border: 1px solid #ff6666;
+  }
+  .btn-update{
+    display: inline-block;
+    border: 1px solid #00cc44;
+    border-radius: 0.12em;
+    padding: 10px;
+    margin-left: 110px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #00cc44;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  .btn-update:hover {
+    color: white;
+    background-color: #80ff80;
+    border: 1px solid #80ff80;
+  }
